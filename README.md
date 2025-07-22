@@ -1,4 +1,4 @@
-# 🎲 Meu Primeiro Projeto de Corrida de Dados 🏁
+# 🎲 Projeto de Corrida de Dados 🏁
 
 
 
